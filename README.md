@@ -1,3 +1,9 @@
+# Petite introduction à l'utilisation de GIT
+
+**Exemple d'un texte en gras** 
+
+*Exemple italique*
+
 
 
 La commande à utiliser pour cloner un dépôt en local avec Git
@@ -14,6 +20,7 @@ La commande à utiliser pour cloner un dépôt en local avec Git
 * item 2
 * item 3
 * item 4
+
 
 
 [lien du dépôt du cours sur GIT](https://github.com/syoucef/demogit4a2i)
